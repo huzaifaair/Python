@@ -1,0 +1,5 @@
+arr5 = np.array([1, 2, 3, 4, 5])
+arr6 = np.array([5, 4, 3, 2, 1])
+print(arr5 + arr6)
+print(arr5 - arr6)
+print(arr5 * arr6)
